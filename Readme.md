@@ -6,6 +6,8 @@ This little console application is designed to go into the current user's AppDat
 
 Alternatively, you can simply go to %AppData%\Intuit\TurboTax\TY19\TTWin\Notifications and edit "Notifications.settings" manually. Specifically, look for the feature called "windows7ShowDialog" and edit the "miscPayload" section from "{\"Enabled\":true}" to "{\"Enabled\":false}".
 
+This has been tested on TurboTax 2019 Deluxe. It should work on other 2019 versions, but I have not tested this, nor is it guaranteed. If you're reading this in the future, it probably won't work on later versions. I don't recommend trying until I've had a chance to test myself.
+
 Please understand that by modifying these files, you undertake any and all risk yourself. I am not responsible for any loss or damage to your system. Proceed at your own risk.
 
 ## Getting Started

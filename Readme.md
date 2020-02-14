@@ -16,7 +16,7 @@ The project was built in Visual Studio 2017 and is built on .NET 4.6.1.
 
 ### Installing
 
-It's fairly simple. Pull the project and build. Alternatively, you can download the executable from the [releases](/releases) page.
+It's fairly simple. Pull the project and build. Alternatively, you can download the executable from the [releases](../../releases) page.
 
 ## Deployment
 

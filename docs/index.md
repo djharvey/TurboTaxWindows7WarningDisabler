@@ -1,6 +1,13 @@
 # TurboTax Windows 7 Warning Disabler
 
-![The TurboTax 2019 Windows 7 to Windows 10 update warning/nag screen](images/TurboTaxWindows7Nag.png)
+![Microsoft has ended support for Windows 7 - your computer is at risk for
+malware and virus attack Upgrade your operating system prior to using Turbo Tax
+Your computer is running on Windows 7. Microsoft no longer provides security updates or support for PCs running Windows 7. This means your computer is more vulnerable to security risks and viruses. To avoid these risks, Microsoft recommends upgrading to Windows 10.
+To help maintain the security of your personal information, like your Social Security number and bank account information, you need to upgrade your operating system immediately.
+Select "Switch to Win 10" to exit TurboTax and learn how to upgrade to Windows 10. Don't worry, your TurboTax information is saved, so you can pick up right where you left off.
+By selecting "Continue on Win 7" you are acknowledging the risks of using TurboTax on Windows 7 (not recommended).
+Continue on Windows 7
+Switch to Windows 10](images/TurboTaxWindows7Nag.png)
 
 If you're tired of the TurboTax 2019 Windows 7 to Windows 10 update warning/nag screen, such as I was, maybe this application can help to disable it for each application launch.
 

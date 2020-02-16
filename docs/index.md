@@ -1,6 +1,6 @@
 # TurboTax Windows 7 Warning Disabler
 
-If you're tired of the TurboTax 2019 Windows 7 to Windows 10 update warning/nag screen, such as I was, maybe this application can help.
+If you're tired of the TurboTax 2019 Windows 7 to Windows 10 update warning/nag screen, such as I was, maybe this application can help to disable it for each application launch.
 
 This little console application is designed to go into the current user's AppData folder and modify the pertinent setting in the settings JSON file. A backup version of the file is also made in case you might need to restore it.
 
@@ -16,7 +16,7 @@ The project was built in Visual Studio 2017 and is built on .NET 4.6.1.
 
 ### Installing
 
-It's fairly simple. Pull the project and build. Alternatively, you can download the executable from the [releases](../../releases) page.
+It's fairly simple. Pull the project and build. Alternatively, you can download the executable from the [releases](../../../releases) page.
 
 ## Deployment
 
@@ -28,4 +28,4 @@ The executable must be run under each Windows account where you wish to remove t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](./License.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](../License.md) file for details

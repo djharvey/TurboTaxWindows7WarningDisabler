@@ -1,5 +1,7 @@
 # TurboTax Windows 7 Warning Disabler
 
+![The TurboTax 2019 Windows 7 to Windows 10 update warning/nag screen](images/TurboTaxWindows7Nag.png)
+
 If you're tired of the TurboTax 2019 Windows 7 to Windows 10 update warning/nag screen, such as I was, maybe this application can help to disable it for each application launch.
 
 This little console application is designed to go into the current user's AppData folder and modify the pertinent setting in the settings JSON file. A backup version of the file is also made in case you might need to restore it.

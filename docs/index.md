@@ -37,4 +37,9 @@ The executable must be run under each Windows account where you wish to remove t
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details.
+
+### Buy Me a Coffee?
+
+If (and only if) you have found my work helpful and feel so inclined, tips are always appreciated but never expected.
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N7STENDX6DGHE&currency_code=USD" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal button" /></a>

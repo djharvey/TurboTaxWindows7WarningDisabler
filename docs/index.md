@@ -16,7 +16,7 @@ The project was built in Visual Studio 2017 and is built on .NET 4.6.1.
 
 ### Installing
 
-It's fairly simple. Pull the project and build. Alternatively, you can download the executable from the [releases](../../../releases) page.
+It's fairly simple. Pull the project and build. Alternatively, you can download the executable from the [releases](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/releases) page.
 
 ## Deployment
 
@@ -28,4 +28,4 @@ The executable must be run under each Windows account where you wish to remove t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](../License.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/blob/master/License.md) file for details

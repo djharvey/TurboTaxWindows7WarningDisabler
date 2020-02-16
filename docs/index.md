@@ -28,4 +28,4 @@ The executable must be run under each Windows account where you wish to remove t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/blob/master/License.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details

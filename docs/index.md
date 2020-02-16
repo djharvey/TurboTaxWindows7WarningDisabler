@@ -18,14 +18,14 @@ The project was built in Visual Studio 2017 and is built on .NET 4.6.1.
 
 It's fairly simple. [Pull the project](https://github.com/djharvey/TurboTaxWindows7WarningDisabler) and build. Alternatively, you can download the executable from the [releases](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/releases) page.
 
-## Deployment
+### Deployment
 
 The executable must be run under each Windows account where you wish to remove the nag screen, as the TurboTax settings are stored on a per-user basis.
 
-## Authors
+### Authors
 
 * **David Harvey**
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details

@@ -10,13 +10,13 @@ This has been tested on TurboTax 2019 Deluxe. It should work on other 2019 versi
 
 Please understand that by modifying these files, you undertake any and all risk yourself. I am not responsible for any loss or damage to your system. Proceed at your own risk.
 
-## Getting Started
+### Getting Started
 
 The project was built in Visual Studio 2017 and is built on .NET 4.6.1.
 
 ### Installing
 
-It's fairly simple. Pull the project and build. Alternatively, you can download the executable from the [releases](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/releases) page.
+It's fairly simple. [Pull the project](https://github.com/djharvey/TurboTaxWindows7WarningDisabler) and build. Alternatively, you can download the executable from the [releases](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/releases) page.
 
 ## Deployment
 
